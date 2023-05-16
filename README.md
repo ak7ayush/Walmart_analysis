@@ -15,8 +15,6 @@
 	• Overall and on average "Male" customers spent more than "Female" customers
 	• Average amount spend by male customer will lie in between: (9120.92, 9752.15)
 	• Average amount spend by female customer will lie in between: (8449.08, 9040.04)
-	• Males: (9120.92, 9752.15)
-	• Females: (8449.08, 9040.04)
 	• We can conclude with 95% Confidence that the mean amount spent by Males and Females do not overlap
 	• Mean amount spent by males is more than that of females
 	• The above information is applicable to the entire population
@@ -29,7 +27,7 @@
 	• Purchases of Married People vs Unmarried people are almost identical
 	• Shopping habits of both kinds of people are similar
 	• Age Band 50-55 has highest mean purchase value with interval (9224.9, 9855.53)
-    • Age Band 0-17 has lowest mean purchase value with interval (8614.15, 9247.73)
+    	• Age Band 0-17 has lowest mean purchase value with interval (8614.15, 9247.73)
 
 
 
